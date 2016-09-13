@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introduction to R and RStudio
+title: Inaugural Workshop: Introduction to R and RStudio
 ---
 
 Open to all students, staff, and affiliates, sponsored by the Department of Sociology and Department of Politics at Princeton:

@@ -1,10 +1,18 @@
 ---
 layout: post
-title: You're up and running!
+title: Introduction to R and RStudio
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Open to all students, staff, and affiliates, sponsored by the Department of Sociology and Department of Politics at Princeton:
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+COMPASS Workshop: Introduction to R and RStudio
+COST: Free!
+DATE: Tuesday, September 20
+TIME: 7:30pm to 9:00pm
+LOCATION: Room 307, McGraw Teaching Center at the Frist Campus Center at Princeton University
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+In this workshop participants will be introduced to the fundamentals of R and RStudio, including basics of data analysis, programming syntax, and best programming practices. No programming experience is necessary or expected. Participants should bring a laptop computer to fully participate in the workshop, although a few laptops will be provided.
+
+Participants will leave the workshop with:
+*Deeper understanding of the basics of R and RStudio
+*Knowledge of data structures and basics of analyzing data

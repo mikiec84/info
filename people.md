@@ -4,12 +4,12 @@ title: People
 permalink: /people/
 ---
 
-Some information about you!
+### TEACHING STAFF
 
-### Instructors 
+The workshops are taught by Ethan Fosse (Research Associate, Department of Sociology) and Yunkyu Sohn 
+(Research Associate, Department of Politics).
 
-A place to include any other types of information that you'd like to include about yourself.
+### FACULTY SPONSORS
 
-### Professors 
-
-[email@domain.com](mailto:email@domain.com)
+The workshops are sponsored by Margaret Frye (Assistant Professor, Department of Sociology), 
+Kosuke Imai (Professor, Department of Politics), and Matthew Salganik (Professor, Department of Sociology).

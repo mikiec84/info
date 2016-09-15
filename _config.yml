@@ -9,7 +9,7 @@ name: COMPASS Workshops
 description: Computing for Data Analysis in the Social Sciences
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/compass-workshops/website/blob/master/images/Logo1.png/?raw=true
+avatar: https://github.com/compass-workshops/info/blob/master/images/Logo1.png/?raw=true
 
 #
 # Flags below are optional
@@ -47,7 +47,7 @@ url:
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/website"
+baseurl: "/info"
 
 #
 # !! You don't need to change any of the configuration flags below !!

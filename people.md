@@ -11,5 +11,5 @@ The workshops are taught by Ethan Fosse (Research Associate, Department of Socio
 
 ### FACULTY SPONSORS
 
-The workshops are sponsored by Margaret Frye (Assistant Professor, Department of Sociology), ad 
+The workshops are sponsored by Margaret Frye (Assistant Professor, Department of Sociology),
 Kosuke Imai (Professor, Department of Politics), and Matthew Salganik (Professor, Department of Sociology).
